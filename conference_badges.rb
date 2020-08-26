@@ -11,6 +11,5 @@ def batch_badge_creator(attendees)
   
   
 end
-return new_array
 end
   
