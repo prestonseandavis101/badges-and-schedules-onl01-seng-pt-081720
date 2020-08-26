@@ -10,6 +10,6 @@ def batch_badge_creator(attendees)
      "Hello, my name is #{}"
   
 end
-collect new_array
+
 end
   
