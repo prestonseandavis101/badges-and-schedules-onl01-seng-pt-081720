@@ -9,6 +9,6 @@ def batch_badge_creator(attendees)
    attendees.each do |attendee|
   
 end
- 
+ return new_array
 end
   
