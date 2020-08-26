@@ -7,7 +7,6 @@ end
 def batch_badge_creator(attendees)
   new_array = []
    attendees.collect do |attendee|
-     collect(new_array)
   
   
 end
