@@ -13,8 +13,7 @@ end
 end
 
 def assign_rooms(attendees)
-  room_assignments = 0
-  room_assignments += 1
+  room_assignments +=1
   attendees.collect do |attendee|
     "Hello #{attendee}! You'll be assigned to room #{room_assignments}! "
 
