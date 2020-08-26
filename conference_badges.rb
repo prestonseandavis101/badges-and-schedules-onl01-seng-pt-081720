@@ -19,5 +19,4 @@ def assign_rooms(attendees)
     room_assignments +=1
 
 end
-  return attendees && room_assignments
 end
